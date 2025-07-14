@@ -137,7 +137,7 @@
     * Visualize the above data
 
 
-## Temporal Patterns Beyond Month/Hour
+## Time/Season Analysis
   * Hourly Analysis: Group crimes by hours, calculate average crime count 
   * Day-of-Week Analysis: Group crimes by day of the week (Monday–Sunday) to identify patterns. Calculate average crime counts per day, create a summary dataframe and visualize.
   * Seasonal Trends: Group data by season (e.g., Winter: Dec–Feb, Spring: Mar–May, etc.) to compare crime average crime counts among seasons.
